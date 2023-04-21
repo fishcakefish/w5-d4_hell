@@ -1,5 +1,8 @@
 function anagrams(str1, str2) {
   // Your code here
+  const mySet = new Set()
+  const mySet2 = new Set()
+  let 
 }
 
 
